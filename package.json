@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/befinal/node-tenpay.git"
+    "url": "git://github.com/zmzhuai/node-tenpay.git"
   },
   "engines": {
     "node": ">= 6.0"
@@ -22,9 +22,9 @@
   "author": "Eric",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/befinal/node-tenpay/issues"
+    "url": "https://github.com/zmzhuai/node-tenpay/issues"
   },
-  "homepage": "https://github.com/befinal/node-tenpay#readme",
+  "homepage": "https://github.com/zmzhuai/node-tenpay#readme",
   "dependencies": {
     "raw-body": "^2.3.2",
     "urllib": "^2.25.1",
